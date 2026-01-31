@@ -2,7 +2,7 @@
 
 Class of '29
 
-By: Isra Alam, Nareh Avagyan, Franchesca Badrina, Deyiani Christopher-Baker, Alyssa Silmon
+By: Nareh Avagyan, Isra Alam, Franchesca Badrina, Deyiani Christopher-Baker, Alyssa Silmon
 
 
 Description:
