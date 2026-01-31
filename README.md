@@ -2,8 +2,7 @@
 
 Class of '29
 
-By: Nareh Avagyan, Isra Alam, Franchesca Badrina, Deyiani Christopher-Baker, Alyssa Silmon
-
+By: Isra Alam, Nareh Avagyan, Franchesca Badrina, Deyiani Christopher-Baker, Alyssa Silmon
 
 Description:
 A Persona-5 inspired visual novel about the first-year experience at UMBC,
